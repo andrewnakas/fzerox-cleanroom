@@ -1,0 +1,20 @@
+{
+  "_note": "Spoken samples (found by voice_text.py in the dirty room; words as best heard). who: announcer | mrzero. Crowd cheers/screams (Sample53/54/64/68) stay resynthesised.",
+  "aAudioSoundFontSESample28": {"text": "Three!", "who": "announcer"},
+  "aAudioSoundFontSESample29": {"text": "Two!", "who": "announcer"},
+  "aAudioSoundFontSESample30": {"text": "One!", "who": "announcer"},
+  "aAudioSoundFontSESample31": {"text": "Go!", "who": "announcer"},
+  "aAudioSoundFontSESample34": {"text": "You got boost power!", "who": "announcer"},
+  "aAudioSoundFontSESample35": {"text": "Yeah! That's quite a lap!", "who": "announcer"},
+  "aAudioSoundFontSESample47": {"text": "Way to go! It's a new record!", "who": "announcer"},
+  "aAudioSoundFontSESample49": {"text": "It's too bad you lost your machine.", "who": "announcer"},
+  "aAudioSoundFontSESample52": {"text": "All right, first place!", "who": "announcer"},
+  "aAudioSoundFontSESample57": {"text": "Wicked! Well done!", "who": "announcer"},
+  "aAudioSoundFontSESample58": {"text": "Watch your back!", "who": "announcer"},
+  "aAudioSoundFontSESample59": {"text": "Pour it on, you're way out in front!", "who": "announcer"},
+  "aAudioSoundFontSESample61": {"text": "Fantastic!", "who": "announcer"},
+  "aAudioSoundFontSESample62": {"text": "You're going the wrong way!", "who": "announcer"},
+  "aAudioSoundFontSESample70": {"text": "Yeah, first place!", "who": "announcer"},
+  "aAudioSoundFontSESample2": {"text": "Bingo! Ha ha ha ha!", "who": "mrzero"},
+  "aAudioSoundFontSESample48": {"text": "See you again! Ha ha ha ha ha!", "who": "mrzero"}
+}

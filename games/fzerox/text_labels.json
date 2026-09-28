@@ -1,0 +1,555 @@
+{
+ "_styles": "menu = italic bold on transparency (colour from grid); header = big heavy italic with a vertical gradient from the grid; block = upright heavy caps; box = white text on the kept black panel with a white frame; plain = upright bold",
+ "aEndingTextAntonioGusterTex": {
+  "text": "Did you see it, Goroh?!\nDid you see my power?!",
+  "style": "box"
+ },
+ "aEndingTextBabaTex": {
+  "text": "My people will erect a\nstatue in my honor!",
+  "style": "box"
+ },
+ "aEndingTextBeastmanTex": {
+  "text": "Lookin' for a whoopin'?\nCome to Beastman!",
+  "style": "box"
+ },
+ "aEndingTextBillyTex": {
+  "text": "Humans are lame. Monkeys are\ngood! Billy is the BEST!",
+  "style": "box"
+ },
+ "aEndingTextBioRexTex": {
+  "text": "Don't judge me by my\nappearance.",
+  "style": "box"
+ },
+ "aEndingTextBlackShadowTex": {
+  "text": "You want some of this,\nFalcon?! I'm right here!",
+  "style": "box"
+ },
+ "aEndingTextBloodFalconTex": {
+  "text": "There is only one TRUE Falcon!",
+  "style": "box"
+ },
+ "aEndingTextCaptainFalconMasterTex": {
+  "text": "I now retire undefeated\nchampion!",
+  "style": "box"
+ },
+ "aEndingTextCaptainFalconStandardExpertTex": {
+  "text": "My time has not yet passed.",
+  "style": "box"
+ },
+ "aEndingTextDrClashTex": {
+  "text": "The next machine I invent will\nbe even FASTER!",
+  "style": "box"
+ },
+ "aEndingTextDrStewartTex": {
+  "text": "My driving skills are\nimpressive, don't you think?",
+  "style": "box"
+ },
+ "aEndingTextDraqTex": {
+  "text": "I won! I can't believe it!",
+  "style": "box"
+ },
+ "aEndingTextGomarAndShiohTex": {
+  "text": "Two drivers are always better\nthan one!",
+  "style": "box"
+ },
+ "aEndingTextJackLevinTex": {
+  "text": "This victory is for all my fans.",
+  "style": "box"
+ },
+ "aEndingTextJamesMcCloudTex": {
+  "text": "I drive like a sly fox!",
+  "style": "box"
+ },
+ "aEndingTextJodySummerTex": {
+  "text": "Was there ever any doubt\nthat I'd win?",
+  "style": "box"
+ },
+ "aEndingTextJohnTanakaTex": {
+  "text": "YEE HAA!  I won!",
+  "style": "box"
+ },
+ "aEndingTextKateAlenTex": {
+  "text": "This girl's got some skills!",
+  "style": "box"
+ },
+ "aEndingTextLeonTex": {
+  "text": "Fast machines are in my blood.",
+  "style": "box"
+ },
+ "aEndingTextMichaelChainTex": {
+  "text": "With this victory, I'll never\nhave to work again!",
+  "style": "box"
+ },
+ "aEndingTextMightyGazelleTex": {
+  "text": "Winning makes me feel so\nALIVE!",
+  "style": "box"
+ },
+ "aEndingTextMrEadTex": {
+  "text": "Banzai! EAD is the greatest!",
+  "style": "box"
+ },
+ "aEndingTextMrsArrowTex": {
+  "text": "The key to victory is technique.",
+  "style": "box"
+ },
+ "aEndingTextOctomanTex": {
+  "text": "Takorans are born to race!",
+  "style": "box"
+ },
+ "aEndingTextPicoTex": {
+  "text": "What a joke! I was hoping\nfor some competition!",
+  "style": "box"
+ },
+ "aEndingTextRogerBusterTex": {
+  "text": "I must be dreaming! I can't\nbelieve I won!",
+  "style": "box"
+ },
+ "aEndingTextSamuraiGorohTex": {
+  "text": "I'm the best in the universe!\nRemember that!",
+  "style": "box"
+ },
+ "aEndingTextSilverNeelsenTex": {
+  "text": "Not bad for an old timer!",
+  "style": "box"
+ },
+ "aEndingTextSuperArrowTex": {
+  "text": "Justice ALWAYS prevails!",
+  "style": "box"
+ },
+ "aEndingTextTheSkullTex": {
+  "text": "I am the SUPREME champion!!",
+  "style": "box"
+ },
+ "aEndingTextZodaTex": {
+  "text": "Who's the baddest man in\nthe universe?! ME!!",
+  "style": "box"
+ },
+ "aMenuCannotSaveGhostTex": {
+  "text": "Race data cannot\nbe saved for ghost",
+  "style": "menu"
+ },
+ "aMenuCelebrityGhostTex": {
+  "text": "Celebrity Ghost",
+  "style": "menu"
+ },
+ "aMenuChampGhostTex": {
+  "text": "Champ Ghost",
+  "style": "menu"
+ },
+ "aMenuChangeCourseTex": {
+  "text": "Change Course",
+  "style": "menu"
+ },
+ "aMenuChangeMachineTex": {
+  "text": "Change Machine",
+  "style": "menu"
+ },
+ "aMenuClearGhostTex": {
+  "text": "Clear Ghost",
+  "style": "menu"
+ },
+ "aMenuClearRecordTex": {
+  "text": "Clear Record",
+  "style": "menu"
+ },
+ "aMenuContinueTex": {
+  "text": "Continue",
+  "style": "menu"
+ },
+ "aMenuEraseCourseSavedData1Tex": {
+  "text": "Erase saved data for\nthis course?",
+  "style": "menu"
+ },
+ "aMenuEraseCourseSavedData2Tex": {
+  "text": "Erase saved data for\nthis course?",
+  "style": "menu"
+ },
+ "aMenuGhostSaveTex": {
+  "text": "Ghost Save",
+  "style": "menu"
+ },
+ "aMenuMonoTex": {
+  "text": "Mono",
+  "style": "menu"
+ },
+ "aMenuNewGhostTex": {
+  "text": "New Ghost",
+  "style": "menu"
+ },
+ "aMenuNoTex": {
+  "text": "No",
+  "style": "menu"
+ },
+ "aMenuOverwriteData1Tex": {
+  "text": "Overwrite Data?",
+  "style": "menu"
+ },
+ "aMenuOverwriteData2Tex": {
+  "text": "Overwrite Data?",
+  "style": "menu"
+ },
+ "aMenuPlusOneTex": {
+  "text": "+1",
+  "style": "menu"
+ },
+ "aMenuPlusTwoTex": {
+  "text": "+2",
+  "style": "menu"
+ },
+ "aMenuQuitTex": {
+  "text": "Quit",
+  "style": "menu"
+ },
+ "aMenuRetryTex": {
+  "text": "Retry",
+  "style": "menu"
+ },
+ "aMenuSavedGhostTex": {
+  "text": "Saved Ghost",
+  "style": "menu"
+ },
+ "aMenuSavedTex": {
+  "text": "Saved",
+  "style": "menu"
+ },
+ "aMenuSavingTex": {
+  "text": "Saving",
+  "style": "menu"
+ },
+ "aMenuSettingsTex": {
+  "text": "Settings",
+  "style": "menu"
+ },
+ "aMenuStaffGhostTex": {
+  "text": "Staff Ghost",
+  "style": "menu"
+ },
+ "aMenuStereoTex": {
+  "text": "Stereo",
+  "style": "menu"
+ },
+ "aMenuToDiskTex": {
+  "text": "To Disk",
+  "style": "menu"
+ },
+ "aMenuToGamePakTex": {
+  "text": "To Game Pak",
+  "style": "menu"
+ },
+ "aMenuWithGhostTex": {
+  "text": "With Ghost",
+  "style": "menu"
+ },
+ "aMenuWithTex": {
+  "text": "with",
+  "style": "menu"
+ },
+ "aMenuWithoutGhostTex": {
+  "text": "Without Ghost",
+  "style": "menu"
+ },
+ "aMenuWithoutTex": {
+  "text": "w/o",
+  "style": "menu"
+ },
+ "aMenuYesTex": {
+  "text": "Yes",
+  "style": "menu"
+ },
+ "aOKTex": {
+  "text": "OK?",
+  "style": "menu"
+ },
+ "aOptionsAllDataClearTex": {
+  "text": "All data clear",
+  "style": "menu"
+ },
+ "aOptionsCopyingGhostTex": {
+  "text": "Copying ghost",
+  "style": "menu"
+ },
+ "aOptionsEraseAllSavedDataTex": {
+  "text": "Erase all saved data?",
+  "style": "menu"
+ },
+ "aOptionsSoundModeTex": {
+  "text": "Sound Mode",
+  "style": "menu"
+ },
+ "aOptionsVsCom2P3PTex": {
+  "text": "VS COM  (2P,3P)",
+  "style": "menu"
+ },
+ "aOptionsVsHandicapTex": {
+  "text": "VS Handicap",
+  "style": "menu"
+ },
+ "aOptionsVsSlotTex": {
+  "text": "VS Slot",
+  "style": "menu"
+ },
+ "aTitleDiskWarningTex": {
+  "text": "Did you insert the correct  disk?",
+  "style": "menu"
+ },
+ "aTitleExpansionPakWarningTex": {
+  "text": "Is the Memory Expansion Pak\ninserted correctly?",
+  "style": "menu"
+ },
+ "aTitleNoControllerTex": {
+  "text": "No Controller",
+  "style": "menu"
+ },
+ "aTitlePushStartTex": {
+  "text": "PUSH START",
+  "style": "menu"
+ },
+ "aOptionsTex": {
+  "text": "OPTIONS",
+  "style": "header"
+ },
+ "aRecordsTex": {
+  "text": "RECORDS",
+  "style": "header"
+ },
+ "aRetireTex": {
+  "text": "RETIRE",
+  "style": "header"
+ },
+ "aSelectCourseTex": {
+  "text": "SELECT COURSE",
+  "style": "header"
+ },
+ "aSelectMachineTex": {
+  "text": "SELECT MACHINE",
+  "style": "header"
+ },
+ "aSelectModeTex": {
+  "text": "SELECT MODE",
+  "style": "header"
+ },
+ "aLoserTex": {
+  "text": "LOSER",
+  "style": "header"
+ },
+ "aWinnerTex": {
+  "text": "WINNER",
+  "style": "header"
+ },
+ "aCongratulationsTex": {
+  "text": "CONGRATULATIONS!!",
+  "style": "header"
+ },
+ "aFinalLapTex": {
+  "text": "FINAL LAP",
+  "style": "header"
+ },
+ "aBoosterOkTex": {
+  "text": "BOOSTER OK!!",
+  "style": "header"
+ },
+ "a2PlayersTex": {
+  "text": "2 PLAYERS",
+  "style": "block"
+ },
+ "a3PlayersTex": {
+  "text": "3 PLAYERS",
+  "style": "block"
+ },
+ "a4PlayersTex": {
+  "text": "4 PLAYERS",
+  "style": "block"
+ },
+ "aExpertTex": {
+  "text": "EXPERT",
+  "style": "block"
+ },
+ "aMasterTex": {
+  "text": "MASTER",
+  "style": "block"
+ },
+ "aNoviceTex": {
+  "text": "NOVICE",
+  "style": "block"
+ },
+ "aStandardTex": {
+  "text": "STANDARD",
+  "style": "block"
+ },
+ "aTimeAttackTex": {
+  "text": "TIME ATTACK",
+  "style": "block"
+ },
+ "aRecordsOptionTex": {
+  "text": "RECORDS",
+  "style": "block"
+ },
+ "aOptionsExitTex": {
+  "text": "EXIT",
+  "style": "block"
+ },
+ "a1PIconTex": {
+  "text": "1P",
+  "style": "plain"
+ },
+ "a2PIconTex": {
+  "text": "2P",
+  "style": "plain"
+ },
+ "a3PIconTex": {
+  "text": "3P",
+  "style": "plain"
+ },
+ "a4PIconTex": {
+  "text": "4P",
+  "style": "plain"
+ },
+ "aBestTex": {
+  "text": "BEST",
+  "style": "plain"
+ },
+ "aBodyTex": {
+  "text": "BODY",
+  "style": "plain"
+ },
+ "aBoostTex": {
+  "text": "BOOST",
+  "style": "plain"
+ },
+ "aGripTex": {
+  "text": "GRIP",
+  "style": "plain"
+ },
+ "aCopyrightTex": {
+  "text": "© 1998 Nintendo",
+  "style": "plain"
+ },
+ "aMachineAccelerationMaxSpeedTex": {
+  "text": "ACCELERATION <-> MAX SPEED",
+  "style": "plain"
+ },
+ "aMachineAccelerationMaxSpeedSmallTex": {
+  "text": "ACCELERATION-MAXSPEED",
+  "style": "plain"
+ },
+ "aNameCardAntonioGusterTex": {
+  "text": "ANTONIO GUSTER",
+  "style": "block"
+ },
+ "aNameCardBabaTex": {
+  "text": "BABA",
+  "style": "block"
+ },
+ "aNameCardBeastmanTex": {
+  "text": "BEASTMAN",
+  "style": "block"
+ },
+ "aNameCardBillyTex": {
+  "text": "BILLY",
+  "style": "block"
+ },
+ "aNameCardBioRexTex": {
+  "text": "BIO REX",
+  "style": "block"
+ },
+ "aNameCardBlackShadowTex": {
+  "text": "BLACK SHADOW",
+  "style": "block"
+ },
+ "aNameCardBloodFalconTex": {
+  "text": "BLOOD FALCON",
+  "style": "block"
+ },
+ "aNameCardCaptainFalconTex": {
+  "text": "CAPTAIN FALCON",
+  "style": "block"
+ },
+ "aNameCardDrClashTex": {
+  "text": "Dr.CLASH",
+  "style": "block"
+ },
+ "aNameCardDrStewartTex": {
+  "text": "Dr.STEWART",
+  "style": "block"
+ },
+ "aNameCardDraqTex": {
+  "text": "DRAQ",
+  "style": "block"
+ },
+ "aNameCardGomarAndShiohTex": {
+  "text": "GOMAR & SHIOH",
+  "style": "block"
+ },
+ "aNameCardJackLevinTex": {
+  "text": "JACK LEVIN",
+  "style": "block"
+ },
+ "aNameCardJamesMcCloudTex": {
+  "text": "JAMES McCLOUD",
+  "style": "block"
+ },
+ "aNameCardJodySummerTex": {
+  "text": "JODY SUMMER",
+  "style": "block"
+ },
+ "aNameCardJohnTanakaTex": {
+  "text": "JOHN TANAKA",
+  "style": "block"
+ },
+ "aNameCardKateAlenTex": {
+  "text": "KATE ALEN",
+  "style": "block"
+ },
+ "aNameCardLeonTex": {
+  "text": "LEON",
+  "style": "block"
+ },
+ "aNameCardMichaelChainTex": {
+  "text": "MICHAEL CHAIN",
+  "style": "block"
+ },
+ "aNameCardMightyGazelleTex": {
+  "text": "MIGHTY GAZELLE",
+  "style": "block"
+ },
+ "aNameCardMrEadTex": {
+  "text": "Mr.EAD",
+  "style": "block"
+ },
+ "aNameCardMrsArrowTex": {
+  "text": "Mrs.ARROW",
+  "style": "block"
+ },
+ "aNameCardOctomanTex": {
+  "text": "OCTOMAN",
+  "style": "block"
+ },
+ "aNameCardPicoTex": {
+  "text": "PICO",
+  "style": "block"
+ },
+ "aNameCardRogerBusterTex": {
+  "text": "ROGER BUSTER",
+  "style": "block"
+ },
+ "aNameCardSamuraiGorohTex": {
+  "text": "SAMURAI GOROH",
+  "style": "block"
+ },
+ "aNameCardSilverNeelsenTex": {
+  "text": "SILVER NEELSEN",
+  "style": "block"
+ },
+ "aNameCardSuperArrowTex": {
+  "text": "SUPER ARROW",
+  "style": "block"
+ },
+ "aNameCardTheSkullTex": {
+  "text": "THE SKULL",
+  "style": "block"
+ },
+ "aNameCardZodaTex": {
+  "text": "ZODA",
+  "style": "block"
+ }
+}
